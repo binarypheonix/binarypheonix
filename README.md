@@ -6,8 +6,8 @@
 
 ## Stats:
 
-### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=axtitv&count_private=true&theme=dark)
-### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtitv&layout=compact&theme=dark)
+### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=binarypheonix&count_private=true&theme=dark)
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarypheonix&layout=compact&theme=dark)
 
 
 <!--<div>
