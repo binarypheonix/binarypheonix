@@ -5,15 +5,12 @@
 <p> I am a sophomore at MUJ. I like to think about and work on all kinds of stuff, from Algorithms to UI/UX design to Statistics/Data Science and more. I have experience working with programming languages like C, C++, Java, Rust, Javascript and Python. I am also a competitive programmer and like to solve problems in my free time. Apart from this, I am also a decent Chess Player and like to write poetry as well. 
 </p>
 
-<<<<<<< HEAD
 <!--### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=axtitv&count_private=true&theme=dark)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtitv&layout=compact&theme=dark)
 -->
-=======
 <!--### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=binarypheonix&count_private=true&theme=dark)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarypheonix&layout=compact&theme=dark)
 -->
->>>>>>> 2a5d1a89e795ca5177a2d0ae7235a1dcdc8fdfe4
 
 <!--<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=axtitv&count_private=true&show_icons=true&theme=midnight-purple">
