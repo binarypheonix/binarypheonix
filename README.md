@@ -22,7 +22,7 @@
 </div>-->
 
 
-#### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials.:w
+#### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials :)
 
 > _I go by the name **binarypheonix** on almost all of them._
 
