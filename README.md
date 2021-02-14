@@ -2,7 +2,7 @@
 
 # I'm Astitv.
 
-<p> I am a sophomore at MUJ. I like to think about and work on all kinds of stuff, from Algorithms to UI/UX design to Statistics/Data Science and more. I have experience working with programming languages like C, C++, Java, Rust, Javascript and Python. I am also a competitive programmer and like to solve problems in my free time. Apart from this, I am also a decent Chess Player and like to write poetry as well. 
+<p> I am a sophomore at MUJ. I like to think about and work on all kinds of stuff, from Algorithms to UI/UX design to Statistics/Data Science and more. I have experience working with programming languages like C, C++, Java, Rust, Javascript and Python. I am also a competitive programmer and like to solve problems in my free time. I also enjoy playing chess and thinking about "the big questions" in life.
 </p>
 
 <!--### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=axtitv&count_private=true&theme=dark)
@@ -22,7 +22,7 @@
 </div>-->
 
 
-#### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials.
+#### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials.:w
 
 > _I go by the name **binarypheonix** on almost all of them._
 
