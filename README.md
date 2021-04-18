@@ -14,14 +14,14 @@
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarypheonix&layout=compact&theme=dark)
 -->
 
-<div>
+<!--<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=axtitv&count_private=true&show_icons=true&theme=midnight-purple">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=axtitv&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=axtitv&hide=php&theme=midnight-purple">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=axtitv&hide=php&theme=midnight-purple" />
 </a>
-</div>
+</div>-->
 
 
 #### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials :)
