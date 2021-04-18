@@ -1,0 +1,19 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_8">
+   <stop offset="0.246094" stop-color="#000000"/>
+   <stop offset="0.777344" stop-color="#ffffff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_2" fill="#000000" d="m34.0814,34.37035l-20.1628,0c0,-5.5642 4.509,-10.0814 10.0814,-10.0814c5.5641,0 10.0814,4.5172 10.0814,10.0814z"/>
+  <circle id="svg_3" fill="#000000" r="4.82225" cy="18.45188" cx="23.99797"/>
+  <ellipse stroke="null" fill-opacity="0.3" ry="16.982889" rx="17.660269" id="svg_5" cy="25.929323" cx="23.903231" stroke-opacity="null" stroke-width="null" fill="url(#svg_8)"/>
+  <ellipse id="svg_6" cy="6.817525" cx="50.175905" fill-opacity="0.3" stroke-opacity="null" stroke-width="null" stroke="null" fill="#000000"/>
+ </g>
+</svg>

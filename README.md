@@ -1,9 +1,11 @@
-<img width="350" height="350" src="/res/bitmoji_hi.png">
+<!--<img width="350" height="350" src="/res/bitmoji_hi.png">-->
 
-# I'm Astitv.
+# Hi! I'm Astitv. Welcome to my Github Space :ghost:
 
-<p> I am a sophomore at MUJ. I like to think about and work on all kinds of stuff, from Algorithms to UI/UX design to Statistics/Data Science and more. I have experience working with programming languages like C, C++, Java, Rust, Javascript and Python. I am also a competitive programmer and like to solve problems in my free time. I also enjoy playing chess and thinking about "the big questions" in life.
-</p>
+## _I'm just a random guy on the internet trying to understand how technology works, by building it._
+
+<!--<p> I am a sophomore at MUJ. I like to think about and work on all kinds of stuff, from Algorithms to UI/UX design to Statistics/Data Science and more. I have experience working with programming languages like C, C++, Java, Rust, Javascript and Python. I am also a competitive programmer and like to solve problems in my free time. I also enjoy playing chess and thinking about "the big questions" in life.
+</p>-->
 
 <!--### ![Astitv's github stats](https://github-readme-stats.vercel.app/api?username=axtitv&count_private=true&theme=dark)
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtitv&layout=compact&theme=dark)
@@ -12,19 +14,19 @@
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binarypheonix&layout=compact&theme=dark)
 -->
 
-<!--<div>
+<div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=axtitv&count_private=true&show_icons=true&theme=midnight-purple">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=axtitv&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=axtitv&hide=php&theme=midnight-purple">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=axtitv&hide=php&theme=midnight-purple" />
 </a>
-</div>-->
+</div>
 
 
 #### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials :)
 
-> _I go by the name **binarypheonix** on almost all of them._
+> _Lemme tell you a secret...I'm **Astitv** by day, but **binarypheonix** by night! But don't tell anyone, ok? :shushing_face:._
 
 <p align="center">
   <a href="https://twitter.com/axtitv"><img width="25" height="25" src="/res/twitter.svg"></a>
@@ -33,27 +35,20 @@
   &nbsp;
   <a href="https://www.instagram.com/axe.sh/"><img width="25" height="25" src="/res/instagram.svg"></a>
   &nbsp;
-  <a href="https://www.twitch.tv/binarypheonix"><img width="25" height="25" src="/res/twitch.svg"></a>
-  &nbsp;
   <a href="https://medium.com/@binarypheonix"><img width="25" height="25" src="/res/medium.svg"></a>
   &nbsp;
-  <a href="https://www.freecodecamp.org/binarypheonix"><img width="25" height="25" src="/res/fcc.svg"></a>
+  <a href="https://binarypheonix.com"><img width="25" height="25" src="/res/profile.svg"></a>
+  &nbsp;
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=binarypheonix.binarypheonix)
 
-<!--
-**axtitv/axtitv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on _writing an OS kernel from scratch_
+- 🌱 I’m currently learning _The Rust Programming Language_
+- 👯 I’m looking to collaborate on _Computational Neuroscience, Low-Level System Projects, Machine Learning, Theoretical Computer Science, and much more!_
+- 🤔 I’m looking for help with _Research Opportunities_
+- 💬 Ask me about _anything. If I don't know the answer, We'll find it together..I promise!_
+- 📫 How to reach me: _Emailing me or DMing me on my socials._
+- ⚡ Fun fact: _I always wanted to be a Theoretical Physicist!_
 
