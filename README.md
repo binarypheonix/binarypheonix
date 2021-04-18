@@ -23,6 +23,13 @@
 </a>
 </div>-->
 
+- ### 🔭 I’m currently working on _writing an OS kernel from scratch_
+- ### 🌱 I’m currently learning _The Rust Programming Language_
+- ### 👯 I’m looking to collaborate on _Computational Neuroscience, Low-Level System Projects, Machine Learning, Theoretical Computer Science, and much more!_
+- ### 🤔 I’m looking for help with _Research Opportunities_
+- ### 💬 Ask me about _anything. If I don't know the answer, We'll find it together..I promise!_
+- ### 📫 How to reach me: _Emailing me or DMing me on my socials._
+- ### ⚡ Fun fact: _I always wanted to be a Theoretical Physicist!_
 
 #### If you have ideas you would like to discuss or want to collaborate, just DM me on any of my socials :)
 
@@ -44,11 +51,4 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=binarypheonix.binarypheonix)
 
 
-- 🔭 I’m currently working on _writing an OS kernel from scratch_
-- 🌱 I’m currently learning _The Rust Programming Language_
-- 👯 I’m looking to collaborate on _Computational Neuroscience, Low-Level System Projects, Machine Learning, Theoretical Computer Science, and much more!_
-- 🤔 I’m looking for help with _Research Opportunities_
-- 💬 Ask me about _anything. If I don't know the answer, We'll find it together..I promise!_
-- 📫 How to reach me: _Emailing me or DMing me on my socials._
-- ⚡ Fun fact: _I always wanted to be a Theoretical Physicist!_
 
