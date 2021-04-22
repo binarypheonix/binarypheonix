@@ -23,12 +23,12 @@
 </a>
 </div>-->
 
-- #### _🔭 I’m currently working on **writing an OS kernel from scratch**_
-- #### _🌱 I’m currently learning **The Rust Programming Language**_
-- #### _👯 I’m looking to collaborate on **Computational Neuroscience, Low-Level System Projects, Machine Learning, Theoretical Computer Science, and much more!**_
-- #### _💬 Ask me about **anything. If I don't know the answer, We'll find it together..I promise!**_
-- #### _📫 How to reach me: **Emailing me or DMing me on my socials.**_
-- #### _⚡ Fun fact: **I always wanted to be a Theoretical Physicist!**_
+-  _🔭 I’m currently working on **writing an OS kernel from scratch**_
+-  _🌱 I’m currently learning **The Rust Programming Language**_
+-  _👯 I’m looking to collaborate on **Computational Neuroscience, Low-Level System Projects, Machine Learning, Theoretical Computer Science, and much more!**_
+-  _💬 Ask me about **anything. If I don't know the answer, We'll find it together..I promise!**_
+-  _📫 How to reach me: **Emailing me or DMing me on my socials.**_
+-  _⚡ Fun fact: **I always wanted to be a Theoretical Physicist!**_
 
 > _Lemme tell you a secret...I'm **Astitv** by day, but **binarypheonix** by night! But don't tell anyone, ok? :shushing_face:._
 
